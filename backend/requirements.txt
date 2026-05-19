@@ -1,0 +1,6 @@
+playwright
+uvicorn
+fastapi
+pydantic
+pytest
+
